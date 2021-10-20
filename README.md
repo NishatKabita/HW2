@@ -14,5 +14,5 @@ Map 2 shows 311 noise complaints in each NTANTA, and it represents the borough M
 
 ![Map 3_ NYPD Compliant](https://user-images.githubusercontent.com/78223690/138005900-01ac00c2-26f6-4c44-a354-4485f9469ba8.png)
 
-
+The third map I used NYPD Complaint Data Current (Year To Date) dataset. For this data, I filtered dates from April 1st, 2021 and July 31st, 2021 and borough to Manhattan only. I used this data to examine if the noise complaint is also associated to other crime related complaints. I categorized by LAW-CAT-CD which shows the level of offense. Crime related complaints were received from all across Manhattan. Felony and Misdemeanor were the frequent level of offense reported in Manhattan. When comparing Map 1 and Map 3, I noticed that the east side of the Washington Heights and Roosevelt Island reported the least noise complaints and offense related crimes. Otherwise, there appears to be no correlation between the 311-noise complaint and the level of crime reported to the New York Police Department.
 
